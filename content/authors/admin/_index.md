@@ -1,13 +1,13 @@
 ---
 title: Lucent Nether
 role: Écrivain
-avatar_filename: investment-g663125503_1920.jpg
+avatar_filename: ""
 bio: Écrivain SF et auteur du roman "Les fleurs du mal"
 interests:
   - Ecriture
   - Cinéma
   - Sciences
-  - Sport.
+  - Sport
 social:
   - icon: envelope
     icon_pack: fas
